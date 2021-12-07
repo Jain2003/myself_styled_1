@@ -1,0 +1,82 @@
+body{
+  background-color: #B8E4F0;
+  margin: 0;
+  text-align: center;
+}
+.top_container{
+  margin : 0;
+
+}
+
+.cloud_1{
+  position: absolute;
+  right: 400px;
+
+}
+.cloud_2{
+  position: absolute;
+  left: 200px;
+  top: 200px;
+}
+.cloud_3{
+  position: absolute;
+  right: 300px;
+  top: 300px;
+}
+.giphy_hello{
+  position: absolute;
+  right: 100px;
+}
+.badminton{
+  position:relative;
+  top: 20px;
+
+
+}
+h1{
+  margin: 0;
+  font-family: 'Sacramento', sans-serif;
+  font-size: 60px;
+  padding-top: 80px;
+  color: #AE431E;
+}
+h2{
+  font-family:'Ubuntu', sans-serif;
+  font-size: 40px;
+}
+h3{
+  font-family:'Ubuntu', sans-serif;
+  font-size: 30px;
+
+}
+h4{font-family:'Ubuntu', sans-serif;
+font-size: 15px;
+
+}
+.skills{
+  display: inline;
+}
+p{
+  margin : 0;
+  font-family: monospace;
+  font-size: 30px;
+ 
+}
+.college{
+  text-decoration:underline;
+}
+.branch{
+  color: #AE431E;
+  font-size: 30px;
+}
+hr{
+  border-style:none ;
+  border-top-style: dotted;
+  color: #AE431E;
+  width: 5%;
+  border-width: 10px;
+  margin-top: 40px;
+}
+span{
+  font-size: 20px;
+}
